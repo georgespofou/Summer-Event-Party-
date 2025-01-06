@@ -1,0 +1,54 @@
+#Container{
+    
+    background-image: url("photo/KUR_Coco-beach-party_1600x900.jpg") ; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width:100%;
+    height: auto;
+    padding: auto;
+    margin: auto;
+    border: 7px solid hsl(172, 21%, 71%);
+}
+
+h1{ text-shadow: 2px 2px red;
+        
+
+}
+
+
+#btn {
+    border: none;
+     background-color: rgb(224, 217, 176);
+     width: 70px;
+    margin-bottom: 10px;
+    padding: 5px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+   border-radius: 5px;
+}
+#btn:hover{
+    transform: scaleX(2);
+    background: rgb(171, 206, 171);
+}
+
+
+#invitation { 
+    }
+
+    p{ font-family: "Sofia", sans-serif;
+
+    }
+    #tlt{ background-color: rgb(20, 201, 29);
+        width: 130px;
+        display:inline-block;
+        border-radius: 1px;
+        
+  }
+
+  
+
+
+body{
+    
+    color: white;
+    text-align: center;
+}  
